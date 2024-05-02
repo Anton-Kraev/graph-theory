@@ -1,0 +1,5 @@
+package sssp
+
+func BellmanFord() {
+
+}
